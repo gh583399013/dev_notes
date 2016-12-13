@@ -8,4 +8,6 @@ public class asd2 {
 	public void getCUn(){
 		System.out.println("22222222");
 	}
+	//加注释
+	//加注释
 }
