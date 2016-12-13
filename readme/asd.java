@@ -6,6 +6,6 @@ public class asd2 {
 	}
 	//加注释	
 	public void getCUn(){
-		System.out.println("22222");
+		System.out.println("22222222");
 	}
 }
