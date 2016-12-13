@@ -4,5 +4,6 @@ public class asd2 {
 	public static void main(String[] args) {
 		System.out.println("2222");
 	}
-	//加注释		
+	//加注释
+	//加注释
 }
