@@ -1,1 +1,1 @@
-貌似非要对自己的项目标星才会增加
+貌似是要改 user.name,user.email
