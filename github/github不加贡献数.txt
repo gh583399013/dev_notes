@@ -1,1 +1,1 @@
-貌似是要改 user.name,user.email
+貌似是要改 user.name,user.email。。。
